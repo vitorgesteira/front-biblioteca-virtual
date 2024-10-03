@@ -1,1 +1,17 @@
+/* src/app/app.component.css */
+
+nav {
+  background-color: #f8f9fa;
+  padding: 1rem;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #007bff;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
 
