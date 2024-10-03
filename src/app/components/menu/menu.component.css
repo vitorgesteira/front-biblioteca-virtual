@@ -1,0 +1,13 @@
+body { background-color:#d0d0d0; }
+
+.bg-degrade {
+
+    background: rgb(2,13,196);
+    background: linear-gradient(80deg, rgba(2,13,196,1) 0%, rgba(0,198,235,1) 100%);
+
+}
+
+.margin-right { margin-right:60px; }
+
+.navbar .dropdown-menu a:hover { color: #565555!important;}
+.title { color:#777777; }
