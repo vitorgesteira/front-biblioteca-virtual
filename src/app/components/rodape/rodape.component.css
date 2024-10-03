@@ -1,0 +1,13 @@
+footer
+{
+
+  background: rgb(2,13,196);
+  background: linear-gradient(80deg, rgba(2,13,196,1) 0%, rgba(0,198,235,1) 100%);
+
+  color: white;
+}
+
+.text a{
+  color: white;
+}
+
