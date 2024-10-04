@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilizando a página */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Garante que a página ocupe pelo menos 100% da altura da tela */
+}
+
+/* O conteúdo principal da página */
+main {
+  flex: 1; /* O conteúdo principal vai ocupar o máximo de espaço disponível */
+  padding: 20px;
+}
+
+ 
