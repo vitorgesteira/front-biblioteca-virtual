@@ -1,3 +1,5 @@
+# criando componente e configurando rotas com standalone
+
 Vamos criar um **componente standalone** no Angular e configurar as rotas passo a passo. Os **componentes standalone** simplificam a estrutura dos projetos Angular, permitindo que você crie componentes sem a necessidade de agrupá-los em módulos. Este guia assume que você está usando o Angular **14 ou superior**, onde os componentes standalone são suportados.
 
 ## **1. Verifique a Versão do Angular**
