@@ -15,3 +15,6 @@ nav a:hover {
   text-decoration: underline;
 }
 
+.container{
+  padding: 0px;
+}
