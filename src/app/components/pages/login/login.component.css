@@ -8,7 +8,8 @@
   border:1px solid rgba(0,0,0,0.2);
   border-bottom:5px solid rgba(0, 124, 255);
   border-radius:15px;
-
+  position: relative;
+  top: 50px;
 }
 
 .formulario-login h2 {
